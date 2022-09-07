@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-07 13:40:56</sys_created_on>
         <sys_id>2cc399692f311110055549e72799b647</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Wishlist</sys_name>
         <sys_package display_value="Wish List" source="x_876511_wish_list">5153d1692f311110055549e72799b6fd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">5153d1692f311110055549e72799b6fd</sys_scope>
         <sys_update_name>sys_db_object_2cc399692f311110055549e72799b647</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-07 14:08:03</sys_updated_on>
+        <sys_updated_on>2022-09-07 14:35:55</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>
